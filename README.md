@@ -7,3 +7,5 @@ Bu projede Netflix verileri üzerinden çeşitli analizler yapılmaktadır. Stre
    pip install -r requirements.txt
 2. Çalıştırın terminalde
    streamlit run app.py
+
+![Uygulama Resimleri](https://github.com/MesuttSahin/Film_analysis_and_Visualization_System/tree/main/Film_Analysis_and_Visualization%20System/images?raw=true)
